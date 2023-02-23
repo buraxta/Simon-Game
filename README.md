@@ -20,8 +20,4 @@ Game rules
 
 8. Continue playing as long as you can repeat the sequence.
 
-9. After the 5th, 9th and 13th signals in a sequence, Simon will automatically speed up. That means you need to add Skill levels.
-
-10. If you fail to repeat a sequence exactly, or if you take more then 5 seconds to repeat a signal, Simon responds with a "REZZ" sound.  That means you've lost, and the sequence of signals ends. GAME OVER.
-
-11. If you manage to repeat of sequences for skill levels 1, 2, 3,  or 4 and Simon will salute you with six short signals from the last lens you pressed.   
+9. If you fail to repeat a sequence exactly, Simon responds with a "REZZ" sound.  That means you've lost, and the sequence of signals ends. GAME OVER.
